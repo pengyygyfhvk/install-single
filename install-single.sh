@@ -157,7 +157,7 @@ i18n.locale: \"zh-CN\"" > $install_home/kibana-7.8.0-linux-x86_64/config/kibana.
 nohup $install_home/kibana-7.8.0-linux-x86_64/bin/kibana --allow-root &
 }
 downPackage(){
-     wget https://xy-1257362739.cos.ap-nanjing.myqcloud.com/package/docker-20.10.8.tgz -P ./package/
+   wget https://xy-1257362739.cos.ap-nanjing.myqcloud.com/package/docker-20.10.8.tgz -P ./package/
     wget https://xy-1257362739.cos.ap-nanjing.myqcloud.com/package/es.tar.gz ./package/
     wget https://xy-1257362739.cos.ap-nanjing.myqcloud.com/package/filebeat-7.8.0-linux-x86_64.tar.gz ./package/
     wget https://xy-1257362739.cos.ap-nanjing.myqcloud.com/package/redis.conf ./package/
