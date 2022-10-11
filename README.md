@@ -15,6 +15,11 @@
     wget https://xy-1257362739.cos.ap-nanjing.myqcloud.com/package/kibana-7.8.0-linux-x86_64.tar.gz
 ```
 
+### 下载安装包
+``` 
+sh single-install.sh download
+```
+
 
 ### 安装docker 
 ``` 
