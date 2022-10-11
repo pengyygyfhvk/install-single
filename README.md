@@ -47,7 +47,6 @@ sh install-single.sh jdk
 ``` 
 sh install-single.sh kibana
 ``` 
-``` 
 
 
 
