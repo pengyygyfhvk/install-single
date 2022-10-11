@@ -17,13 +17,13 @@
 
 ### 下载安装包
 ``` 
-sh single-install.sh download
+sh install-single.sh download
 ```
 
 
 ### 安装docker 
 ``` 
-sh single-install.sh docker 
+sh install-single.sh docker 
 ```
 
 
