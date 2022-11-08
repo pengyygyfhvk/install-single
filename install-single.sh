@@ -1,5 +1,5 @@
 #!/bin/bash
-ip=""
+ip="192.168.1.3"
 domain=""
 
 binaryPackage="./package"
